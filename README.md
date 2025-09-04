@@ -2,7 +2,4 @@
 
 コミットしてみる
 
-aa
-bb
-new branch後
-d
+branch4での作業
